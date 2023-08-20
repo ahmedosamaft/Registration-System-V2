@@ -6,8 +6,8 @@ Welcome to the 2nd version of the Registration System! This system allows studen
 
 Follow these steps to run the Registration System V2 on your local machine:
 
-1. **Clone the Repository**: Use the following command to clone the repository to your local machine:
-
+1. **Clone the Repository**: Use the following command to clone the repository to your local machine: <br />
+`gh repo clone ahmedosamaft/Registration-System-V2`
 
 3. **Launch the Application**: Go to `cmake-build-debug\` and run the `Registration_System_V2.exe` executable file to start the Registration System.
 
