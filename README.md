@@ -26,7 +26,7 @@ To log in to the Registration System as a doctor, use the following credentials:
 - **Password**: The password is the same as the username (e.g., for username `d001`, the password is `d001`).
 
 ## Register
-Please note that the `Register` option is not yet implemented in this version of the Registration System. I'm continually working on enhancing the system's features and functionalities, and the "Register" option will be available in future updates.
+Please note that the `Register` option is not yet implemented in this version of the Registration System. I'm continually working on enhancing the system's features and functionalities, and the `Register` option will be available in future updates.
 
 ## User Interface
 
