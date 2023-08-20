@@ -13,10 +13,20 @@ Follow these steps to run the Registration System V2 on your local machine:
 
 ## Logging In
 
+### Student Login
 To log in to the Registration System as a student, use the following credentials:
 
 - **Username**: Use the format `s00X`, where X is a number from 1 to 4 (e.g., `s001`, `s002`, etc.).
 - **Password**: The password is the same as the username (e.g., for username `s001`, the password is `s001`).
+
+### Doctor Login
+To log in to the Registration System as a doctor, use the following credentials:
+
+- **Username**: Use the format `d00X`, where X is a number from 1 to 4 (e.g., `d001`, `d002`, etc.).
+- **Password**: The password is the same as the username (e.g., for username `d001`, the password is `d001`).
+
+## Register
+Please note that the `Register` option is not yet implemented in this version of the Registration System. I'm continually working on enhancing the system's features and functionalities, and the "Register" option will be available in future updates.
 
 ## User Interface
 
